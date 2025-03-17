@@ -6,3 +6,9 @@ __pycache__/
 .python-version
 # Data
 data
+# Credentials
+.env
+
+# Solutions 
+*.solution
+lessons

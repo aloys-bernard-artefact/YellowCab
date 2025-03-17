@@ -2,16 +2,12 @@
 name = "yellowcab"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Aloys Bernard",email = "aloys.bernard@artefact.com"}
-]
-readme = "README.md"
+authors = [{ name = "Aloys Bernard", email = "aloys.bernard@artefact.com" }]
 requires-python = ">=3.10"
-dependencies = [
-]
+dependencies = []
 
 [tool.poetry]
-packages = [{include = "yellowcab", from = "src"}]
+packages = [{ include = "yellowcab", from = "src" }]
 
 
 [build-system]
